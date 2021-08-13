@@ -3,12 +3,13 @@
 
 
 ## 项目介绍
+````
 一款由jsp+ssm（spring+springmvc+mybatis）+mysql实现的垃圾分类查询管理系统，这里发布的这个不带开发教程哦，只是完整源码和指导运行教程。
 系统主要实现的功能有：
 1：前端垃圾分类查询，前端采用bootstrap框架，自适应设备的。
 2：后台菜单管理、角色权限管理、用户管理、日志管理、垃圾分类管理、垃圾管理等功能。
 项目包含完整的源码和视频运行教程，视频可提前观看，百度云地址是：https://pan.baidu.com/s/1pteUXkxsmRVwAuCVBckdkg
-
+`````
 源码获取：[点此获取](http://www.shuyue.fun/?type=productinfo&id=146)
 
 ## 环境需要
